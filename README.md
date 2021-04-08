@@ -1,6 +1,6 @@
 # Walkie_Talkie
 
-This is my first project created to get hands on learning. Took Reference from COrey Schafer's django playlist.
+This is my first project created to get hands on learning. Took Reference from Corey Schafer's django playlist.
 
 ### Tech used: Django , HTML/CSS
 
